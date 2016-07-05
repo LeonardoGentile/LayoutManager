@@ -1,0 +1,37 @@
+[
+    {
+        "keys": ["alt+ctrl+shift+1"],
+        "command": "layout_manager",
+        "args" : {"group": 0 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+2"],
+        "command": "layout_manager",
+        "args" : {"group": 1 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+3"],
+        "command": "layout_manager",
+        "args" : {"group": 2 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+4"],
+        "command": "layout_manager",
+        "args" : {"group": 3 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+5"],
+        "command": "layout_manager",
+        "args" : {"group": 4 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+6"],
+        "command": "layout_manager",
+        "args" : {"group": 5 }
+    },
+    {
+        "keys": ["alt+ctrl+shift+7"],
+        "command": "layout_manager",
+        "args" : {"group": 6 }
+    }
+]
