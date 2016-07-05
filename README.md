@@ -5,7 +5,7 @@ Sublime Text 3 plugin for sending the current file to a specific group of a pane
 With this plugin you can send the current file to a specific group (pane) and in addition if the layout is not already set then this pluign will set it up and focus on the file after it has been moved to the group.
 
 
-![alt text](layout_manager.png "Layout Manager Example")
+![Usage Example](layout_manager.gif "Layout Manager Example")
 
 
 ###Usage Example
