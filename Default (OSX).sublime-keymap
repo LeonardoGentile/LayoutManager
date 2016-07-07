@@ -1,4 +1,16 @@
 [
+    // Focus to a group
+    { "keys": ["alt+1"], "command": "focus_group", "args": { "group": 0 } },
+    { "keys": ["alt+2"], "command": "focus_group", "args": { "group": 1 } },
+    { "keys": ["alt+3"], "command": "focus_group", "args": { "group": 2 } },
+    { "keys": ["alt+4"], "command": "focus_group", "args": { "group": 3 } },
+    { "keys": ["alt+5"], "command": "focus_group", "args": { "group": 4 } },
+    { "keys": ["alt+6"], "command": "focus_group", "args": { "group": 5 } },
+    { "keys": ["alt+7"], "command": "focus_group", "args": { "group": 6 } },
+    { "keys": ["alt+8"], "command": "focus_group", "args": { "group": 7 } },
+    { "keys": ["alt+9"], "command": "focus_group", "args": { "group": 8 } },
+
+    // Move to group (and creates it if necessary)
     {
         "keys": ["ctrl+alt+shift+1"],
         "command": "layout_manager",
