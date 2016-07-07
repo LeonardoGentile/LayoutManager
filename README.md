@@ -22,7 +22,7 @@ With this plugin you can send the current file to a specific group (pane) and in
 
 
 | Shortcut              | Action        | Layout Creation  |
-| ------------- --------|:-------------:|:----------------:|
+| --- | --- |---|
 | ctrl+alt+shift+1      | send the file to the 1st group of the current layout | never creates a layout, use the current one.|
 | ctrl+alt+shift+2      | send the file to the 2nd group of the current layout | creates a 2 panes vertical layout if the current layout has less than 2 panes.|
 | ctrl+alt+shift+3      | send the file to the 3rd group of the current layout | creates a 3 panes vertical layout if the current layout has less than 3 panes.|
@@ -36,7 +36,7 @@ In addition to the standard shortcuts for moving the current file to a pane this
 ### Convenience shortcut for layout creations
 
 | Shortcut              | Action        | Layout Creation  |
-| ------------- --------|:-------------:|:----------------:|
+| --- | --- |---|
 | ctrl+alt+shift+5      | send the file to the **1st** group of a squared layout | always create a squared (4 panes) layout.|
 | ctrl+alt+shift+6      | send the file to the **2st** group of a horizontal (2 panes) layout | always create a horizontal (2 panes) layout.|
 | ctrl+alt+shift+7      | send the file to the **3rd** group of a horizontal (3 panes) layout | always create a horizontal (3 panes) layout.|
