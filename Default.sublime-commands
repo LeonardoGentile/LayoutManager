@@ -20,17 +20,17 @@
         "args" : {"group": 3 }
     },
     {
-        "caption": "Layout Manager: send to squared layout (group 2)",
+        "caption": "Layout Manager: send to grid layout (group 2)",
         "command": "layout_manager",
         "args" : {"group": 4 }
     },
     {
-        "caption": "Layout Manager: send to horizontal layout (group 2)",
+        "caption": "Layout Manager: send to row layout (group 2)",
         "command": "layout_manager",
         "args" : {"group": 5 }
     },
     {
-        "caption": "Layout Manager: send to horizontal layout (group 3)",
+        "caption": "Layout Manager: send to row layout (group 3)",
         "command": "layout_manager",
         "args" : {"group": 6 }
     },

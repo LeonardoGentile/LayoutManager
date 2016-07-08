@@ -14,7 +14,7 @@ With this plugin you can send the current file to a specific group (pane) and in
 - Either:
   - Hit the shortcut `ctrl+shift+alt+2`
   - Open up the command panel and start to type: `layout ..` then chose `Layout Manager: send to group 2`
-- If the layout has **at least 2 panes** (either vertically, horizontally or in squared layout) then the current file will be sent to the __2nd pane__ of the currently activated layout
+- If the layout has **at least 2 panes** (either vertically, horizontally or in grid layout) then the current file will be sent to the __2nd pane__ of the currently activated layout
 - If the current layout has **less the 2 panes** (that is a single file layout) then it activates a 2 panes _vertical_ layout, then it moves the file to the 2nd group and focus on it.
 
 
@@ -37,7 +37,7 @@ In addition to the standard shortcuts for moving the current file to a pane this
 
 | Shortcut              | Action        | Layout Creation  |
 | --- | --- |---|
-| ctrl+alt+shift+5      | send the file to the **1st** group of a squared layout | always create a squared (4 panes) layout.|
+| ctrl+alt+shift+5      | send the file to the **1st** group of a grid layout | always create a grid (4 panes) layout.|
 | ctrl+alt+shift+6      | send the file to the **2st** group of a horizontal (2 panes) layout | always create a horizontal (2 panes) layout.|
 | ctrl+alt+shift+7      | send the file to the **3rd** group of a horizontal (3 panes) layout | always create a horizontal (3 panes) layout.|
 
@@ -47,7 +47,7 @@ What is important to notice is that if the layout has been already created, eith
 
 ####Examples:
 - If we are using a vertical 3 panes layout, the `ctrl+alt+shift+2` shortcut will send the file to the 2nd (vertical) pane
-- If we are using a squared (4 panes) layout the same `ctrl+alt+shift+2` shortcut will send the file to the 2nd pane of the squared layout
+- If we are using a grid (4 panes) layout the same `ctrl+alt+shift+2` shortcut will send the file to the 2nd pane of the grid layout
 - Similarly if we are using an horizontal 3 panes layout the same `ctrl+alt+shift+2` shortcut will send the current file to the 2nd (horizontal) pane.
 
 ####Commands

@@ -29,7 +29,7 @@ class LayoutManagerCommand( sublime_plugin.WindowCommand ):
             "rows": [0.0, 1.0],
             "cells": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]
         },
-        # Square Layouts
+        # Grid Layouts
         # ================
         # 4
         {
@@ -63,7 +63,7 @@ class LayoutManagerCommand( sublime_plugin.WindowCommand ):
         # horizontal layout (<4)
         if group < 4:
             where_to = group
-        # square layout
+        # Grid layout
         elif group is 4:
             where_to = 1
         # vertical layout
